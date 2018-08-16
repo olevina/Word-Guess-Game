@@ -1,0 +1,17 @@
+body{
+    font-family: 'Markazi Text', serif;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Eater', cursive;
+    background-image: url(../assets/images/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+.first {
+font-size: 80px;
+}
+
+.second {
+    font-size: 50px;
+}
